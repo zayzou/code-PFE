@@ -1,0 +1,3 @@
+bibliothèque externe 
+1.ThingSpeak :  https://github.com/mathworks/thingspeak-arduino
+2.WiFiEsp : https://github.com/bportaluri/WiFiEsp
